@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeExtractor", "GradeExtractor\GradeExtractor.csproj", "{02ECF7A9-7715-45C4-B21E-E02E61387607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeExtractorTests", "GradeExtractorTests\GradeExtractorTests.csproj", "{CBC45EEA-F157-466E-AB23-40660D4687C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02ECF7A9-7715-45C4-B21E-E02E61387607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02ECF7A9-7715-45C4-B21E-E02E61387607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02ECF7A9-7715-45C4-B21E-E02E61387607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02ECF7A9-7715-45C4-B21E-E02E61387607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBC45EEA-F157-466E-AB23-40660D4687C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC45EEA-F157-466E-AB23-40660D4687C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC45EEA-F157-466E-AB23-40660D4687C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC45EEA-F157-466E-AB23-40660D4687C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C45BFAF3-8DA6-49EF-811E-AA0E5635B5B1}
+	EndGlobalSection
+EndGlobal
